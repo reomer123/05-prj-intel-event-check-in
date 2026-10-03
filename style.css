@@ -258,6 +258,14 @@ button .fas {
   color: #003c71;
 }
 
+.winners-message {
+  background-color: #e8f4fc;
+  border-radius: 8px;
+  margin-bottom: 34px;
+  padding: 16px 20px;
+  font-weight: 500;
+}
+
 /* Counter */
 #attendeeCount {
   color: #0071c5;
